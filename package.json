@@ -1,0 +1,29 @@
+{
+  "name": "query_string",
+  "version": "1.0.0",
+  "description": "Query strings in Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsswenson/320-query-string.git"
+  },
+  "keywords": [
+    "query",
+    "string",
+    "express"
+  ],
+  "author": "Lars Swenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsswenson/320-query-string/issues"
+  },
+  "homepage": "https://github.com/larsswenson/320-query-string#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
